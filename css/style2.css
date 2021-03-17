@@ -1,3 +1,12 @@
 body{
-  background-image: url(/images/download.jpg);
+  background-image: url(/images/james-lee-Jgf19RffQhk-unsplash.jpg);
+}
+h1{
+  font-size: 50px;
+  text-align: center;
+  font-style: initial;
+}
+
+.complimentary{
+  font-size: larger;
 }

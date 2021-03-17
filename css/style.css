@@ -1,0 +1,20 @@
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+
+body{
+  background-image: url(/images/aee7f31fe0b481511a4e389cbbfe61bc.jpg);
+}
+
+p{
+  text-align: center;
+  font-size: medium;
+  font-style: oblique;
+}
+
+.vacation{
+  text-align: center;
+  color: sandybrown;
+}
